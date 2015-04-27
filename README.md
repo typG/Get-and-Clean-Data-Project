@@ -1,6 +1,7 @@
 # Get-and-Clean-Data-Project
 
 This is for my project for Get and Claen Data course.
+Basically, I just download this dataset and then clean it to the situation that it can be analyzed directly.
 
 Here is the link to the dataset I use:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
